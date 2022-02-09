@@ -1,7 +1,3 @@
-[submodule "covid_analysis"]
-	path = covid_analysis
-	url = git@github.com:LuigiNorp/covid_analysis.git
-	
 [submodule "PyMongo"]
 	path = PyMongo
 	url = git@github.com:LuigiNorp/prueba_pymongo.git
